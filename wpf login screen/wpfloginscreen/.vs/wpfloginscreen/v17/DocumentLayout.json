@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|c:\\users\\admin\\downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\loginscreen.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|solutionrelative:wpfloginscreen\\loginscreen.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\loginscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|solutionrelative:wpfloginscreen\\loginscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|c:\\users\\admin\\downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|solutionrelative:wpfloginscreen\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|solutionrelative:wpfloginscreen\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|c:\\users\\admin\\downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|solutionrelative:wpfloginscreen\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|c:\\users\\admin\\downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\data.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|solutionrelative:wpfloginscreen\\data.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|c:\\users\\admin\\downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|solutionrelative:wpfloginscreen\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F949E2E8-5EDB-47DF-A07C-16444D40C9B9}|wpfloginscreen\\wpfloginscreen.csproj|solutionrelative:wpfloginscreen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "wpfloginscreen\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\Menu.xaml.cs",
+              "RelativeToolTip": "wpfloginscreen\\Menu.xaml.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAqwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:12:45.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "data.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\data.xaml",
+              "RelativeDocumentMoniker": "wpfloginscreen\\data.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\data.xaml",
+              "RelativeToolTip": "wpfloginscreen\\data.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T07:57:02.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\App.xaml",
+              "RelativeDocumentMoniker": "wpfloginscreen\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\App.xaml",
+              "RelativeToolTip": "wpfloginscreen\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T06:15:25.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\Menu.xaml",
+              "RelativeDocumentMoniker": "wpfloginscreen\\Menu.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\Menu.xaml",
+              "RelativeToolTip": "wpfloginscreen\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T06:50:41.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\App.config",
+              "RelativeDocumentMoniker": "wpfloginscreen\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\App.config",
+              "RelativeToolTip": "wpfloginscreen\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-17T06:49:31.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\LoginScreen.xaml.cs",
+              "RelativeDocumentMoniker": "wpfloginscreen\\LoginScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\LoginScreen.xaml.cs",
+              "RelativeToolTip": "wpfloginscreen\\LoginScreen.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:15:46.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "wpfloginscreen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\MainWindow.xaml",
+              "RelativeToolTip": "wpfloginscreen\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T06:15:29.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\LoginScreen.xaml",
+              "RelativeDocumentMoniker": "wpfloginscreen\\LoginScreen.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\wpf login screen\\wpfloginscreen\\wpfloginscreen\\LoginScreen.xaml",
+              "RelativeToolTip": "wpfloginscreen\\LoginScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T06:15:14.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
